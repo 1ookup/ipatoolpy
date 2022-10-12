@@ -1,0 +1,10 @@
+venv/
+tmp/
+.idea/
+__pycache__
+logs/*
+*.ipa
+.DS_Store
+build/
+dist/
+ipatoolpy.egg-info/
